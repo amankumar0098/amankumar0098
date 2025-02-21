@@ -7,7 +7,6 @@
 
 - 🌱 I’m currently learning **Fullstack Web Development**
 
-- 👨‍💻 All of my projects are available at [https://amankumar0098.github.io/Portfolio/](https://amankumar0098.github.io/Portfolio/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
